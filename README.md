@@ -61,7 +61,7 @@ Complex engineering systems, technology strategy, infrastructure programmes, sys
 
 A technical examination of intelligent radio access networks, AI-native network engineering, automation, orchestration and the evolution of radio access networks toward future architectures.
 
-**[Book] · [Amazon](https://www.amazon.com/dp/B0GX2SLJ85) · [Technical Repository]**
+**[Book](https://www.amazon.com/dp/B0GX2SLJ85) · [Amazon](https://www.amazon.com/author/sebastienbeyh) · [Technical Repository]**
 
 ---
 
@@ -71,7 +71,7 @@ A technical examination of intelligent radio access networks, AI-native network 
 
 A systems-oriented treatment of cyber resilience spanning identity, infrastructure security, AI risk, critical infrastructure protection, incident response and quantum-safe migration.
 
-**[Book] · [Amazon] · [Technical Repository]**
+**[Book](https://www.amazon.com/dp/B0HKM9PRBX) · [Amazon] (https://www.amazon.com/author/sebastienbeyh)· [Technical Repository]**
 
 ---
 
