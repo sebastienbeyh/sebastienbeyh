@@ -71,7 +71,7 @@ A technical examination of intelligent radio access networks, AI-native network 
 
 A systems-oriented treatment of cyber resilience spanning identity, infrastructure security, AI risk, critical infrastructure protection, incident response and quantum-safe migration.
 
-**[Book](https://www.amazon.com/dp/B0HKM9PRBX) · [Amazon](https://www.amazon.com/author/sebastienbeyh)· [Technical Repository]**
+**[Book](https://www.amazon.com/dp/B0HKM9PRBX) · [Amazon](https://www.amazon.com/author/sebastienbeyh) · [Technical Repository]**
 
 ---
 
