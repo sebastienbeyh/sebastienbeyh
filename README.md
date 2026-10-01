@@ -61,7 +61,7 @@ Complex engineering systems, technology strategy, infrastructure programmes, sys
 
 A technical examination of intelligent radio access networks, AI-native network engineering, automation, orchestration and the evolution of radio access networks toward future architectures.
 
-**[Book] · [Amazon] · [Technical Repository]**
+**[Book] · [Amazon](https://www.amazon.com/dp/B0GX2SLJ85) · [Technical Repository]**
 
 ---
 
