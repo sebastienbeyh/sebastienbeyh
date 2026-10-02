@@ -61,7 +61,7 @@ Complex engineering systems, technology strategy, infrastructure programmes, sys
 
 A technical examination of intelligent radio access networks, AI-native network engineering, automation, orchestration and the evolution of radio access networks toward future architectures.
 
-**[Book](https://www.amazon.com/dp/B0GX2SLJ85) · [Amazon](https://www.amazon.com/author/sebastienbeyh) · [Technical Repository]**
+[**Book**](https://www.amazon.com/dp/B0GX2SLJ85) **· [Amazon](https://www.amazon.com/author/sebastienbeyh) · [Technical Repository](https://github.com/sebastienbeyh/ai-ran-engineering)**
 
 ---
 
@@ -71,7 +71,7 @@ A technical examination of intelligent radio access networks, AI-native network 
 
 A systems-oriented treatment of cyber resilience spanning identity, infrastructure security, AI risk, critical infrastructure protection, incident response and quantum-safe migration.
 
-**[Book](https://www.amazon.com/dp/B0HKM9PRBX) · [Amazon](https://www.amazon.com/author/sebastienbeyh) · [Technical Repository]**
+[**Book**](https://www.amazon.com/dp/B0HKM9PRBX) **· [Amazon](https://www.amazon.com/author/sebastienbeyh) · [Technical Repository](https://github.com/sebastienbeyh/engineering-cyber-resilience)**
 
 ---
 
@@ -89,7 +89,7 @@ Selected technical writing covering:
 - Engineering systems
 - Technology strategy
 
-**→ [Explore the Technical Writing Portfolio]**
+**→ [Explore the Technical Writing Portfolio](https://github.com/sebastienbeyh/technical-writing-portfolio)**
 
 ---
 
@@ -110,7 +110,7 @@ Typical engagements include:
 
 Confidential and attribution-sensitive engagements can be handled according to client requirements.
 
-**→ [Technical Ghostwriting Portfolio]**
+**→ [Technical Ghostwriting Portfolio](https://github.com/sebastienbeyh/technical-ghostwriting)**
 
 ---
 
@@ -127,7 +127,7 @@ The portfolio will progressively include representative examples of:
 - Technical architecture writing
 - Specialist technology content
 
-**→ [View Writing Samples]**
+**→ [View Writing Samples](https://github.com/sebastienbeyh/engineering-writing-samples)**
 
 ---
 
