@@ -140,4 +140,4 @@ His technical writing focuses on translating sophisticated engineering subjects 
 
 ---
 
-> Technical writing should begin with understanding the engineering—not simply rewriting the terminology.
+> Technical writing should begin with understanding the engineering, not simply rewriting the terminology.
