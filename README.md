@@ -8,24 +8,22 @@ I am a published technical author and engineering professional who develops comp
 
 My work combines engineering understanding, research-based analysis and professional technical writing across artificial intelligence, telecommunications, energy, cybersecurity and complex infrastructure systems.
 
+**For technical writing, ghostwriting and engineering-content assignments, [view my Upwork profile](https://www.upwork.com/freelancers/~01b87da47748e9829f).**
+
 ---
 
-## Technical Writing
+## Technical Writing Services
 
 I develop technically demanding content where subject-matter understanding matters as much as writing quality.
 
-### Writing Services
+* **Technical books and manuscripts** — structure, chapter development, technical exposition and manuscript refinement.
+* **Technical ghostwriting** — transforming subject-matter expertise and supplied source material into coherent technical publications.
+* **Engineering white papers** — architecture analysis, technical assessments, engineering trade-offs and position papers.
+* **Technical articles** — specialist articles, engineering perspectives and research-based analysis.
+* **Technical reports and documentation** — structured technical explanations, system descriptions and engineering documentation.
+* **Technical proposals and tender content** — technical narratives, solution descriptions and supporting engineering material.
 
-- Technical books and manuscripts
-- Technical ghostwriting
-- Engineering articles
-- White papers
-- Research-based technical content
-- Technical reports
-- Engineering case studies
-- Technical documentation
-- Executive technical briefs
-- Specialist thought-leadership content
+[**Discuss a potential assignment on Upwork →**](https://www.upwork.com/freelancers/~01b87da47748e9829f)
 
 ---
 
@@ -53,110 +51,88 @@ Complex engineering systems, technology strategy, infrastructure programmes, sys
 
 ---
 
-# Published Technical Books
+## Published Technical Books
 
-## AI-RAN Engineering
+### AI-RAN Engineering
 
-### Intelligent Radio Networks for 5G and Future 6G
+**Intelligent Radio Networks for 5G and Future 6G**
 
 A technical examination of intelligent radio access networks, AI-native network engineering, automation, orchestration and the evolution of radio access networks toward future architectures.
 
-[**Book**](https://www.amazon.com/dp/B0GX2SLJ85) **· [Amazon](https://www.amazon.com/author/sebastienbeyh) · [Technical Repository](https://github.com/sebastienbeyh/ai-ran-engineering)**
+[**View on Amazon**](https://www.amazon.com/dp/B0GX2SLJ85) · [Author page](https://www.amazon.com/author/sebastienbeyh) · [Technical repository](https://github.com/sebastienbeyh/ai-ran-engineering)
 
----
+### Engineering Cyber Resilience
 
-## Engineering Cyber Resilience
-
-### A Layered Model for Identity, Infrastructure, AI & Quantum-Era Defense
+**A Layered Model for Identity, Infrastructure, AI & Quantum-Era Defense**
 
 A systems-oriented treatment of cyber resilience spanning identity, infrastructure security, AI risk, critical infrastructure protection, incident response and quantum-safe migration.
 
-[**Book**](https://www.amazon.com/dp/B0HKM9PRBX) **· [Amazon](https://www.amazon.com/author/sebastienbeyh) · [Technical Repository](https://github.com/sebastienbeyh/engineering-cyber-resilience)**
+[**View on Amazon**](https://www.amazon.com/dp/B0HKM9PRBX) · [Author page](https://www.amazon.com/author/sebastienbeyh) · [Technical repository](https://github.com/sebastienbeyh/engineering-cyber-resilience)
 
 ---
 
-# Technical Writing Portfolio
+## Technical Writing Portfolio
 
-Selected technical writing covering:
+Explore technical writing samples covering AI, telecommunications, renewable energy, cybersecurity and complex engineering systems.
 
-- Artificial intelligence
-- AI-RAN and 5G/6G
-- Telecommunications
-- Renewable energy
-- Energy storage
-- Cybersecurity
-- Critical infrastructure
-- Engineering systems
-- Technology strategy
+* [**Technical writing portfolio**](https://github.com/sebastienbeyh/technical-writing-portfolio)
+* [**Engineering writing samples**](https://github.com/sebastienbeyh/engineering-writing-samples)
+* [**Technical white papers**](https://github.com/sebastienbeyh/technical-white-papers)
 
-**→ [Explore the Technical Writing Portfolio](https://github.com/sebastienbeyh/technical-writing-portfolio)**
+The samples demonstrate approaches to technical explanation, architecture analysis, systems engineering and structured engineering communication.
 
 ---
 
-# Technical Ghostwriting
+## Technical Ghostwriting
 
-I provide confidential technical ghostwriting for engineers, researchers, technology executives, consultants and subject-matter experts who need complex knowledge transformed into clear, technically credible and publication-ready material.
+I provide technical ghostwriting for engineers, researchers, technology executives, consultants and subject-matter experts who need complex knowledge transformed into clear, technically credible material.
 
-Typical engagements include:
+Potential assignments include:
 
-- Technical books
-- Engineering manuscripts
-- White papers
-- Research-based articles
-- Technical reports
-- Case studies
-- Specialist documentation
-- Executive technical content
+* Technical books and manuscripts
+* Engineering white papers
+* Research-based articles
+* Technical reports and case studies
+* Specialist documentation
+* Executive technical content
 
-Confidential and attribution-sensitive engagements can be handled according to client requirements.
+Confidential and attribution-sensitive engagements can be handled according to agreed client requirements.
 
-**→ [Technical Ghostwriting Portfolio](https://github.com/sebastienbeyh/technical-ghostwriting)**
+[**Explore technical ghostwriting services**](https://github.com/sebastienbeyh/technical-ghostwriting) · [**Contact me through Upwork**](https://www.upwork.com/freelancers/~01b87da47748e9829f)
 
 ---
 
-# Selected Writing Samples
+## Why Work With Me
 
-The portfolio will progressively include representative examples of:
-
-- Long-form technical writing
-- Engineering articles
-- White papers
-- Research-based analysis
-- Technical documentation
-- Case studies
-- Technical architecture writing
-- Specialist technology content
-
-**→ [View Writing Samples](https://github.com/sebastienbeyh/engineering-writing-samples)**
-
----
-
-# Why Work With Me
-
-My approach combines three capabilities that are particularly valuable for technically demanding writing assignments:
-
-**Engineering understanding**  
+**Engineering understanding**
 Complex subjects are approached from an engineering and systems perspective.
 
-**Professional technical writing**  
-Technical concepts are structured for clarity without unnecessarily removing their technical substance.
+**Structured technical communication**
+Technical concepts are organized for clarity without unnecessarily removing their technical substance.
 
-**Publication experience**  
-I have authored and published complete technical books rather than producing only individual articles or short-form content.
+**Published-author experience**
+I have authored and published complete technical books, in addition to developing technical articles, white papers and engineering writing samples.
 
-The objective is not simply to make technical material readable. It is to make it **accurate, coherent, useful and credible to technically informed readers.**
-
----
-
-# Professional Engagement
-
-Available for contractual technical-writing, technical ghostwriting and engineering-content assignments.
-
-**[Upwork] · [Portfolio] · [Books] · [Contact]**
+My objective is to make technical material **accurate, coherent, useful and credible to technically informed readers**—not merely to rewrite terminology.
 
 ---
 
-# About
+## Professional Engagement
+
+Available for suitable contractual assignments in:
+
+* Technical writing and engineering content
+* Technical ghostwriting and manuscript development
+* Engineering white papers and technical reports
+* AI, telecommunications, energy and cybersecurity content
+
+[**View my Upwork profile and services →**](https://www.upwork.com/freelancers/~01b87da47748e9829f)
+
+For examples of my work, start with the [technical writing portfolio](https://github.com/sebastienbeyh/technical-writing-portfolio) or [engineering writing samples](https://github.com/sebastienbeyh/engineering-writing-samples).
+
+---
+
+## About
 
 Sébastien Beyh, PhD is an engineer, technology professional and published technical author with experience spanning telecommunications, AI infrastructure, renewable energy, cybersecurity and complex technology systems.
 
@@ -164,4 +140,4 @@ His technical writing focuses on translating sophisticated engineering subjects 
 
 ---
 
-> **Technical writing should begin with understanding the engineering — not simply rewriting the terminology.**
+> Technical writing should begin with understanding the engineering—not simply rewriting the terminology.
