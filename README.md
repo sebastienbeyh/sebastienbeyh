@@ -113,7 +113,7 @@ Technical concepts are organized for clarity without unnecessarily removing thei
 **Published-author experience**
 I have authored and published complete technical books, in addition to developing technical articles, white papers and engineering writing samples.
 
-My objective is to make technical material **accurate, coherent, useful and credible to technically informed readers**—not merely to rewrite terminology.
+My objective is to make technical material **accurate, coherent, useful and credible to technically informed readers**, not merely to rewrite terminology.
 
 ---
 
