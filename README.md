@@ -4,24 +4,24 @@
 
 **AI • Telecommunications • 5G/6G • Energy • Cybersecurity • Complex Engineering Systems**
 
-I am a published technical author and engineering professional who develops complex technology and engineering subjects into clear, structured and technically credible content for professional and specialist audiences.
+I am a published technical author and engineering professional focused on developing complex technology and engineering subjects into clear, structured content for professional and specialist audiences.
 
-My work combines engineering understanding, research-based analysis and professional technical writing across artificial intelligence, telecommunications, energy, cybersecurity and complex infrastructure systems.
+My work combines engineering-oriented thinking, research-based analysis and disciplined technical communication. I write for readers who need more than polished language: they need coherent explanations, traceable technical claims and a clear presentation of engineering concepts and trade-offs.
 
-**For technical writing, ghostwriting and engineering-content assignments, [view my Upwork profile](https://www.upwork.com/freelancers/~01b87da47748e9829f).**
+**For technical writing, ghostwriting and engineering-content assignments, [visit my Upwork profile](https://www.upwork.com/freelancers/~01b87da47748e9829f).**
 
 ---
 
 ## Technical Writing Services
 
-I develop technically demanding content where subject-matter understanding matters as much as writing quality.
+I develop technical content where subject-matter understanding, document structure and writing quality must work together.
 
-* **Technical books and manuscripts** — structure, chapter development, technical exposition and manuscript refinement.
-* **Technical ghostwriting** — transforming subject-matter expertise and supplied source material into coherent technical publications.
+* **Technical books and manuscripts** — book structure, chapter development, technical exposition and manuscript refinement.
+* **Technical ghostwriting** — transforming subject-matter expertise and source material into coherent technical publications.
 * **Engineering white papers** — architecture analysis, technical assessments, engineering trade-offs and position papers.
 * **Technical articles** — specialist articles, engineering perspectives and research-based analysis.
-* **Technical reports and documentation** — structured technical explanations, system descriptions and engineering documentation.
-* **Technical proposals and tender content** — technical narratives, solution descriptions and supporting engineering material.
+* **Technical reports and documentation** — system descriptions, engineering reports and structured technical explanations.
+* **Technical proposals and tender content** — solution descriptions, technical narratives and supporting engineering material based on actual project information.
 
 [**Discuss a potential assignment on Upwork →**](https://www.upwork.com/freelancers/~01b87da47748e9829f)
 
@@ -29,25 +29,27 @@ I develop technically demanding content where subject-matter understanding matte
 
 ## Technical Domains
 
-### Artificial Intelligence & AI Infrastructure
+### Artificial Intelligence and AI Infrastructure
 
 AI systems, intelligent infrastructure, AI-enabled networks, edge computing and emerging AI infrastructure architectures.
 
 ### Telecommunications
 
-5G, 6G, RAN, AI-RAN, FTTX, network architecture, network operations and telecommunications infrastructure.
+5G and future 6G, RAN, AI-RAN, FTTX, network architecture, network operations and telecommunications infrastructure.
 
-### Energy & Renewable Energy
+### Energy and Renewable Energy
 
-Solar PV, hybrid energy systems, battery energy storage, distributed energy, energy infrastructure and energy-transition technologies.
+Solar PV, hybrid energy systems, battery energy storage, distributed energy and energy infrastructure.
 
-### Cybersecurity & Cyber Resilience
+### Cybersecurity and Cyber Resilience
 
-Cyber resilience, identity, infrastructure security, AI security, critical infrastructure protection and quantum-safe migration.
+Cyber resilience, identity and infrastructure security, AI-related security considerations, critical infrastructure protection and quantum-safe migration concepts.
 
-### Engineering & Technology
+### Engineering and Technology
 
-Complex engineering systems, technology strategy, infrastructure programmes, systems architecture and digital transformation.
+Complex engineering systems, systems architecture, technical integration, infrastructure programmes, technology strategy and digital transformation.
+
+The scope of an engagement is agreed individually. These subject areas describe my writing focus and do not imply certification, specialist authorization or experience with every technology, standard or application within each domain.
 
 ---
 
@@ -57,7 +59,7 @@ Complex engineering systems, technology strategy, infrastructure programmes, sys
 
 **Intelligent Radio Networks for 5G and Future 6G**
 
-A technical examination of intelligent radio access networks, AI-native network engineering, automation, orchestration and the evolution of radio access networks toward future architectures.
+A technical book examining the engineering and architectural considerations associated with intelligent radio access networks, AI-enabled network functions, automation and evolving radio access architectures.
 
 [**View on Amazon**](https://www.amazon.com/dp/B0GX2SLJ85) · [Author page](https://www.amazon.com/author/sebastienbeyh) · [Technical repository](https://github.com/sebastienbeyh/ai-ran-engineering)
 
@@ -65,7 +67,7 @@ A technical examination of intelligent radio access networks, AI-native network 
 
 **A Layered Model for Identity, Infrastructure, AI & Quantum-Era Defense**
 
-A systems-oriented treatment of cyber resilience spanning identity, infrastructure security, AI risk, critical infrastructure protection, incident response and quantum-safe migration.
+A systems-oriented book examining cyber resilience across identity, infrastructure security, AI-related risk, critical infrastructure protection and quantum-era security considerations.
 
 [**View on Amazon**](https://www.amazon.com/dp/B0HKM9PRBX) · [Author page](https://www.amazon.com/author/sebastienbeyh) · [Technical repository](https://github.com/sebastienbeyh/engineering-cyber-resilience)
 
@@ -73,19 +75,19 @@ A systems-oriented treatment of cyber resilience spanning identity, infrastructu
 
 ## Technical Writing Portfolio
 
-Explore technical writing samples covering AI, telecommunications, renewable energy, cybersecurity and complex engineering systems.
+Explore examples of technical explanation, architecture analysis, systems engineering and structured engineering communication.
 
-* [**Technical writing portfolio**](https://github.com/sebastienbeyh/technical-writing-portfolio)
-* [**Engineering writing samples**](https://github.com/sebastienbeyh/engineering-writing-samples)
-* [**Technical white papers**](https://github.com/sebastienbeyh/technical-white-papers)
+* [**Technical Writing Portfolio**](https://github.com/sebastienbeyh/technical-writing-portfolio) — an overview of my professional writing focus.
+* [**Engineering Writing Samples**](https://github.com/sebastienbeyh/engineering-writing-samples) — selected articles across AI, telecommunications, cybersecurity, energy and engineering systems.
+* [**Technical White Papers**](https://github.com/sebastienbeyh/technical-white-papers) — longer-form technical analysis and architecture-oriented documents.
 
-The samples demonstrate approaches to technical explanation, architecture analysis, systems engineering and structured engineering communication.
+These materials demonstrate my writing approach and subject coverage. They should not be interpreted as commissioned client deliverables unless explicitly identified as such.
 
 ---
 
 ## Technical Ghostwriting
 
-I provide technical ghostwriting for engineers, researchers, technology executives, consultants and subject-matter experts who need complex knowledge transformed into clear, technically credible material.
+I support engineers, technology professionals, consultants and subject-matter experts who need complex knowledge developed into clear, structured technical content.
 
 Potential assignments include:
 
@@ -94,49 +96,58 @@ Potential assignments include:
 * Research-based articles
 * Technical reports and case studies
 * Specialist documentation
-* Executive technical content
+* Executive-oriented technical content
 
-Confidential and attribution-sensitive engagements can be handled according to agreed client requirements.
+Confidentiality, attribution, intellectual property ownership and publication arrangements are established according to the relevant engagement terms.
 
-[**Explore technical ghostwriting services**](https://github.com/sebastienbeyh/technical-ghostwriting) · [**Contact me through Upwork**](https://www.upwork.com/freelancers/~01b87da47748e9829f)
+[**Explore Technical Ghostwriting Services**](https://github.com/sebastienbeyh/technical-ghostwriting) · [**Contact me through Upwork**](https://www.upwork.com/freelancers/~01b87da47748e9829f)
 
 ---
 
-## Why Work With Me
+## Working Principles
 
 **Engineering understanding**
-Complex subjects are approached from an engineering and systems perspective.
+Technical subjects are approached from an engineering and systems perspective.
 
-**Structured technical communication**
-Technical concepts are organized for clarity without unnecessarily removing their technical substance.
+**Structured communication**
+Complex concepts are organized logically for their intended audience without unnecessarily removing technical substance.
 
-**Published-author experience**
-I have authored and published complete technical books, in addition to developing technical articles, white papers and engineering writing samples.
+**Evidence and traceability**
+Technical claims should be supported by supplied documentation, authoritative sources or clearly identified assumptions, as appropriate.
 
-My objective is to make technical material **accurate, coherent, useful and credible to technically informed readers**, not merely to rewrite terminology.
+**Authorship and integrity**
+Published work, portfolio samples and client deliverables are distinguished accurately. Qualifications, compliance claims and project results are not invented.
+
+My objective is to make technical material **accurate, coherent, useful and credible to technically informed readers**—not merely to rewrite terminology.
 
 ---
 
 ## Professional Engagement
 
-Available for suitable contractual assignments in:
+I welcome suitable freelance and contract assignments involving:
 
 * Technical writing and engineering content
 * Technical ghostwriting and manuscript development
 * Engineering white papers and technical reports
 * AI, telecommunications, energy and cybersecurity content
+* Technical proposals and tender documentation
 
-[**View my Upwork profile and services →**](https://www.upwork.com/freelancers/~01b87da47748e9829f)
+For an initial inquiry, please include the subject, intended audience, required deliverable, available source material and target deadline. This helps establish whether the assignment is a suitable fit.
 
-For examples of my work, start with the [technical writing portfolio](https://github.com/sebastienbeyh/technical-writing-portfolio) or [engineering writing samples](https://github.com/sebastienbeyh/engineering-writing-samples).
+**[View my Upwork profile and services →](https://www.upwork.com/freelancers/~01b87da47748e9829f)**
+
+You can also explore my [GitHub profile](https://github.com/sebastienbeyh) and the [technical writing portfolio](https://github.com/sebastienbeyh/technical-writing-portfolio).
 
 ---
 
 ## About
 
-Sébastien Beyh, PhD is an engineer, technology professional and published technical author with experience spanning telecommunications, AI infrastructure, renewable energy, cybersecurity and complex technology systems.
+Sébastien Beyh, PhD, an engineering professional and published technical author working at the intersection of telecommunications, artificial intelligence, renewable energy, cybersecurity and complex engineering systems.
 
-His technical writing focuses on translating sophisticated engineering subjects into structured, technically credible material for professional, technical and specialist audiences.
+My approach to technical writing is grounded in engineering logic, systems thinking and disciplined technical analysis. I focus on transforming complex architectures, technologies and engineering concepts into structured, technically credible content that preserves the substance of the subject while making it accessible to its intended audience.
+
+Through technical books, engineering articles, white papers and specialist documentation, I aim to bridge the gap between technical complexity and clear professional communication—helping readers understand not only how a technology works, but also its architectural implications, engineering trade-offs and practical constraints.
+
 
 ---
 
